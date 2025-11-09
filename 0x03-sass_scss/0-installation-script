@@ -1,0 +1,4 @@
+- Installed nvm v0.39.7 via the curl command on <DATE>
+- Reopened terminal, installed node v20.16 with `nvm install 20.16`
+- Installed sass locally in project: `npm install --save-dev sass@3.7.4`
+- Verified installation: `npx sass --version`
